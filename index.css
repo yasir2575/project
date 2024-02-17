@@ -1,0 +1,58 @@
+.nav-1 {
+    background-color: #1f2348;
+    color: #8e93d4;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1rem;
+    position: fixed;
+}
+
+.nav-icon {
+    color: #8e93d4;
+}
+
+.nav-icon i {
+    margin-right: 28px;
+     color: #8e93d4 !important;
+}
+
+/* NAVBAR-2 */
+.nav-2 {
+    background-color: #4d5067;
+    color: white !important;
+}
+.nav-logo{
+    color: #F77D0A !important;
+    font-size: 2.5rem !important;
+    font-weight: 700;
+    margin-right: 20px;
+}
+nav-item-2{
+    padding-left: 6rem;
+    color: white !important;
+}
+
+/* boxes- */
+.pickup{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 19px;
+}
+.custom-select{
+    background-color: none !important;
+    border: none;
+    width: 180px;
+}
+.btn-primary{
+    background-color: #F77D0A !important;
+    border: 0px  !important;
+}
+/* caroudal */
+#carouselExampleCaptions h5 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+#carouselExampleCaptions p {
+    font-size: 5rem;
+    font-weight: 1000;
+}
